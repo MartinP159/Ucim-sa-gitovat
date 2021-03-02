@@ -10,6 +10,11 @@ namespace git
     {
         static void Main(string[] args)
         {
+            int a = 5;
+
+            a = a + 5;
+
+            Console.WriteLine(a);
         }
     }
 }
