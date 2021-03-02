@@ -1,0 +1,7 @@
+C:\Users\Martin\source\repos\BinaryConvertor\BinaryConvertor\bin\Debug\BinaryConvertor.exe.config
+C:\Users\Martin\source\repos\BinaryConvertor\BinaryConvertor\bin\Debug\BinaryConvertor.exe
+C:\Users\Martin\source\repos\BinaryConvertor\BinaryConvertor\bin\Debug\BinaryConvertor.pdb
+C:\Users\Martin\source\repos\BinaryConvertor\BinaryConvertor\obj\Debug\BinaryConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\BinaryConvertor\BinaryConvertor\obj\Debug\BinaryConvertor.exe
+C:\Users\Martin\source\repos\BinaryConvertor\BinaryConvertor\obj\Debug\BinaryConvertor.pdb
+C:\Users\Martin\source\repos\BinaryConvertor\BinaryConvertor\obj\Debug\BinaryConvertor.csprojAssemblyReference.cache
